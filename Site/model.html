@@ -1,0 +1,78 @@
+﻿<html>
+<head>
+<title>Випускна робота</title>
+<link rel="stylesheet" type="text/css" href="style1.css">
+</head>
+<body>
+<div class="div5">
+<h1 align="center">Моделювання еволюції колонії мікроорганізмів на площині в режимі зміни умов виживання мікроорганізмів</h1>
+</div>
+
+
+
+
+
+
+
+<div class="div6">
+<div align="center" class="div0">
+  <div class="div2">
+    <button onclick="f1(40,50)">Розпочати</button>
+    <button onclick="openSettings()">Налаштування</button>
+    <button >Очистити</button>
+  </div>
+</div>
+<div class="div3" align="center">
+<canvas id="i1" width="600" height="600">
+</canvas>
+</div>
+<div id="i2" class="div1" align="center" style="display: none;" onmousedown="addM()">
+ <p>Народження змінюється від <input type="text" size=10 value="3"> до <input type="text" size=10 value="5"></p>
+ <button onclick="closeSettings()">Прийняти</button>
+</div>
+<script>
+function f1(h,w){
+  var s=10;
+  var drawingCanvas = document.getElementById('i1');
+    if(drawingCanvas && drawingCanvas.getContext){
+      var c = drawingCanvas.getContext('2d');
+      for(i=0;i<h+1;i++){
+          c.moveTo(0,i*s);
+          c.lineTo(w*s,i*s);
+          c.stroke(); 
+}
+      for(i=0;i<w+1;i++){
+          c.moveTo(i*s,0);
+          c.lineTo(i*s,h*s);
+          c.stroke();
+}
+}
+}
+
+function openSettings(){
+ document.getElementById('i2').style.display = 'block';
+}
+
+function closeSettings(){
+ document.getElementById('i2').style.display = 'none';
+}
+
+function addM(){
+}
+</script>
+</div>
+
+
+
+
+
+
+
+<div class="div4" align="center">
+<p align="center">Меню</p>
+<p><a href="documentation.html"><button>Документація</button></a></p>
+<p><a href="model.html"><button>Моделювання</button></a></p>
+<p><a href="galery.html"><button>Галерея</button></a></p>
+</div>
+</body>
+</html>

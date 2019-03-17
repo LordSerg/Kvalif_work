@@ -1,0 +1,66 @@
+﻿<html>
+<head>
+<title>Випускна робота</title>
+<script>
+<!--рисование руками-->
+function f1(h,w){
+  var s=10;
+  var drawingCanvas = document.getElementById('i1');
+    if(drawingCanvas && drawingCanvas.getContext){
+      var c = drawingCanvas.getContext('2d');
+      for(i=0;i<h+1;i++){
+          c.moveTo(0,i*s);
+          c.lineTo(w*s,i*s);
+          c.stroke(); 
+}
+      for(i=0;i<w+1;i++){
+          c.moveTo(i*s,0);
+          c.lineTo(i*s,h*s);
+          c.stroke();
+}
+}
+}
+
+function openSettings(){
+ document.getElementById('i2').style.display = 'block';
+}
+
+function closeSettings(){
+ document.getElementById('i2').style.display = 'none';
+}
+
+function addM(){
+}
+
+function abc(){
+w=document.getElementById("width").value;
+h=document.getElementById("height").value;
+document.writeln("<table border=1>");
+for(i=0;i<h;i++){
+   document.writeln("<tr>");
+   for(j=0;j<w;j++){
+    if(i==j && i!=0 && j!=0)document.writeln("<td bgcolor = red><font color=blue>"+i*j+"<\/font><\/td>");
+    if(i!=j && i!=0 && j!=0)document.writeln("<td bgcolor = yellow><font color = red>"+i*j+"<\/font><\/td>");
+    if(i==0)document.writeln("<td bgcolor = blue><font color=white>"+i*j+"<\/font><\/td>");
+    else if(j==0)document.writeln("<td bgcolor = green><font color=yellow>"+i*j+"<\/font><\/td>");
+}
+   document.writeln("<\/tr>")
+}
+  document.writeln("<\/table>")
+}
+</script>
+<link rel="stylesheet" type="text/css" href="style1.css">
+</head>
+
+<frameset>
+ <frameset rows="10%, 70%,*">
+  <frame src="buttons.html" name="BT" noresize></frame>
+  <frameset cols="20%, 60%, 20%">
+   <frame src="one.html" noresize></frame>
+   <frame src="tbl.html" name="LIFE" noresize></frame>
+   <frame src="one.html" noresize></frame>
+  </frameset>
+  <frame src="vals.html" name="VALUES" noresize></frame>
+ </frameset>
+</frameset>
+</html>

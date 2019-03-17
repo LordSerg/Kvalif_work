@@ -1,0 +1,35 @@
+D:\Комп. проект\Vipusknaya\Vipusknaya\bin\Debug\Vipusknaya.exe.config
+D:\Комп. проект\Vipusknaya\Vipusknaya\bin\Debug\Vipusknaya.exe
+D:\Комп. проект\Vipusknaya\Vipusknaya\bin\Debug\Vipusknaya.pdb
+D:\Комп. проект\Vipusknaya\Vipusknaya\obj\Debug\Vipusknaya.csprojResolveAssemblyReference.cache
+D:\Комп. проект\Vipusknaya\Vipusknaya\obj\Debug\Vipusknaya.Form1.resources
+D:\Комп. проект\Vipusknaya\Vipusknaya\obj\Debug\Vipusknaya.Form2.resources
+D:\Комп. проект\Vipusknaya\Vipusknaya\obj\Debug\Vipusknaya.Form3.resources
+D:\Комп. проект\Vipusknaya\Vipusknaya\obj\Debug\Vipusknaya.Form4.resources
+D:\Комп. проект\Vipusknaya\Vipusknaya\obj\Debug\Vipusknaya.Properties.Resources.resources
+D:\Комп. проект\Vipusknaya\Vipusknaya\obj\Debug\Vipusknaya.csproj.GenerateResource.Cache
+D:\Комп. проект\Vipusknaya\Vipusknaya\obj\Debug\Vipusknaya.exe
+D:\Комп. проект\Vipusknaya\Vipusknaya\obj\Debug\Vipusknaya.pdb
+F:\Компютерный проект\Выпускная\до 17.05\Vipusknaya\Vipusknaya\bin\Debug\Vipusknaya.exe.config
+F:\Компютерный проект\Выпускная\до 17.05\Vipusknaya\Vipusknaya\obj\Debug\Vipusknaya.exe
+F:\Компютерный проект\Выпускная\до 17.05\Vipusknaya\Vipusknaya\obj\Debug\Vipusknaya.pdb
+F:\Компютерный проект\Выпускная\до 17.05\Vipusknaya\Vipusknaya\bin\Debug\Vipusknaya.exe
+F:\Компютерный проект\Выпускная\до 17.05\Vipusknaya\Vipusknaya\bin\Debug\Vipusknaya.pdb
+F:\Компютерный проект\Выпускная\до 17.05\Vipusknaya\Vipusknaya\obj\Debug\Vipusknaya.csprojResolveAssemblyReference.cache
+F:\Компютерный проект\Выпускная\до 17.05\Vipusknaya\Vipusknaya\obj\Debug\Vipusknaya.Form1.resources
+F:\Компютерный проект\Выпускная\до 17.05\Vipusknaya\Vipusknaya\obj\Debug\Vipusknaya.Form2.resources
+F:\Компютерный проект\Выпускная\до 17.05\Vipusknaya\Vipusknaya\obj\Debug\Vipusknaya.Form3.resources
+F:\Компютерный проект\Выпускная\до 17.05\Vipusknaya\Vipusknaya\obj\Debug\Vipusknaya.Form4.resources
+F:\Компютерный проект\Выпускная\до 17.05\Vipusknaya\Vipusknaya\obj\Debug\Vipusknaya.Properties.Resources.resources
+F:\Компютерный проект\Выпускная\до 17.05\Vipusknaya\Vipusknaya\obj\Debug\Vipusknaya.csproj.GenerateResource.Cache
+F:\Компютерный проект\Выпускная\до 17.05\Vipusknaya\Vipusknaya\bin\Debug\opentk.glcontrol.dll
+F:\Компютерный проект\Выпускная\до 17.05\Vipusknaya\Vipusknaya\bin\Debug\OpenTK.dll
+F:\Компютерный проект\Выпускная\до 17.05\Vipusknaya\Vipusknaya\bin\Debug\opentk.glcontrol.xml
+F:\Компютерный проект\Выпускная\до 17.05\Vipusknaya\Vipusknaya\bin\Debug\OpenTK.pdb
+F:\Компютерный проект\Выпускная\до 17.05\Vipusknaya\Vipusknaya\bin\Debug\OpenTK.xml
+F:\Компютерный проект\Выпускная\до 17.05\Vipusknaya\Vipusknaya\obj\Debug\Vipusknaya.Form5.resources
+F:\Компютерный проект\Выпускная\до 17.05\Vipusknaya\Vipusknaya\obj\Debug\Vipusknaya.Form6.resources
+F:\Компютерный проект\Выпускная\до 17.05\Vipusknaya\Vipusknaya\obj\Debug\Vipusknaya.Form7.resources
+F:\Vipusknaya\Vipusknaya\bin\Debug\Vipusknaya.exe.config
+F:\Vipusknaya\Vipusknaya\obj\Debug\Vipusknaya.exe
+F:\Vipusknaya\Vipusknaya\obj\Debug\Vipusknaya.pdb

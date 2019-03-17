@@ -1,0 +1,9 @@
+C:\Users\moskalenko_s\Desktop\Выпускная\Vipusknaya7\Vipusknaya7\bin\Debug\Vipusknaya7.exe.config
+C:\Users\moskalenko_s\Desktop\Выпускная\Vipusknaya7\Vipusknaya7\bin\Debug\Vipusknaya7.exe
+C:\Users\moskalenko_s\Desktop\Выпускная\Vipusknaya7\Vipusknaya7\bin\Debug\Vipusknaya7.pdb
+C:\Users\moskalenko_s\Desktop\Выпускная\Vipusknaya7\Vipusknaya7\obj\Debug\Vipusknaya7.csprojResolveAssemblyReference.cache
+C:\Users\moskalenko_s\Desktop\Выпускная\Vipusknaya7\Vipusknaya7\obj\Debug\Vipusknaya7.Form1.resources
+C:\Users\moskalenko_s\Desktop\Выпускная\Vipusknaya7\Vipusknaya7\obj\Debug\Vipusknaya7.Properties.Resources.resources
+C:\Users\moskalenko_s\Desktop\Выпускная\Vipusknaya7\Vipusknaya7\obj\Debug\Vipusknaya7.csproj.GenerateResource.Cache
+C:\Users\moskalenko_s\Desktop\Выпускная\Vipusknaya7\Vipusknaya7\obj\Debug\Vipusknaya7.exe
+C:\Users\moskalenko_s\Desktop\Выпускная\Vipusknaya7\Vipusknaya7\obj\Debug\Vipusknaya7.pdb

@@ -1,0 +1,31 @@
+﻿<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style1.css">
+<head>
+<body>
+<div align="center" class="div0">
+  <div class="div2">
+    <button onclick="abc(40,50)" target="LIFE">Розпочати</button>
+    <button onclick="openSettings()" target="VALUES">Налаштування</button>
+    <button target="LIFE">Очистити</button>
+  </div>
+</div>
+<script>
+function f1(w,h){
+document.writeln("<table border=1>");
+for(i=0;i<h;i++){
+   document.writeln("<tr>");
+   for(j=0;j<w;j++){
+    if(i==j && i!=0 && j!=0)document.writeln("<td bgcolor = red><font color=blue>"+i*j+"<\/font><\/td>");
+    if(i!=j && i!=0 && j!=0)document.writeln("<td bgcolor = yellow><font color = red>"+i*j+"<\/font><\/td>");
+    if(i==0)document.writeln("<td bgcolor = blue><font color=white>"+i*j+"<\/font><\/td>");
+    else if(j==0)document.writeln("<td bgcolor = green><font color=yellow>"+i*j+"<\/font><\/td>");
+}
+   document.writeln("<\/tr>")
+}
+  document.writeln("<\/table>")
+}
+</script>
+
+</body>
+</html>

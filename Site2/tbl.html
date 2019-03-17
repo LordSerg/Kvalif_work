@@ -1,0 +1,29 @@
+﻿<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style1.css">
+<script>
+function abc(w,h){
+var z=0;
+document.writeln("<table border=1>");
+for(i=0;i<h;i++){
+   document.writeln("<tr>");
+   for(j=0;j<w;j++){
+    document.writeln("<td height=10 width=5 id=&quot;"+z+"&quot; onclick=&quot;f1("+z+")&quot;><\/td>");
+    z++;
+}
+   document.writeln("<\/tr>")
+}
+  document.writeln("<\/table>")
+}
+
+function f1(x){
+ document.bgcolor='black';
+}
+</script>
+</head>
+
+<body>
+<button onclick="abc(30,30)">Start</button>
+</body>
+
+</html>

@@ -1,0 +1,16 @@
+C:\Users\moskalenko_s\Desktop\Выпускная\Vipusknaya4\Vipusknaya4\bin\Debug\Vipusknaya4.exe.config
+C:\Users\moskalenko_s\Desktop\Выпускная\Vipusknaya4\Vipusknaya4\bin\Debug\Vipusknaya4.exe
+C:\Users\moskalenko_s\Desktop\Выпускная\Vipusknaya4\Vipusknaya4\bin\Debug\Vipusknaya4.pdb
+C:\Users\moskalenko_s\Desktop\Выпускная\Vipusknaya4\Vipusknaya4\obj\Debug\Vipusknaya4.csprojResolveAssemblyReference.cache
+C:\Users\moskalenko_s\Desktop\Выпускная\Vipusknaya4\Vipusknaya4\obj\Debug\Vipusknaya4.Form1.resources
+C:\Users\moskalenko_s\Desktop\Выпускная\Vipusknaya4\Vipusknaya4\obj\Debug\Vipusknaya4.Properties.Resources.resources
+C:\Users\moskalenko_s\Desktop\Выпускная\Vipusknaya4\Vipusknaya4\obj\Debug\Vipusknaya4.csproj.GenerateResource.Cache
+C:\Users\moskalenko_s\Desktop\Выпускная\Vipusknaya4\Vipusknaya4\obj\Debug\Vipusknaya4.exe
+C:\Users\moskalenko_s\Desktop\Выпускная\Vipusknaya4\Vipusknaya4\obj\Debug\Vipusknaya4.pdb
+C:\Users\moskalenko_s\Desktop\Выпускная\Vipusknaya4\Vipusknaya4\obj\Debug\Vipusknaya4.Form2.resources
+C:\Users\moskalenko_s\Desktop\Выпускная\Vipusknaya4\Vipusknaya4\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\moskalenko_s\Desktop\Выпускная\Vipusknaya4\Vipusknaya4\bin\Debug\OpenTK.dll
+C:\Users\moskalenko_s\Desktop\Выпускная\Vipusknaya4\Vipusknaya4\bin\Debug\OpenTK.GLControl.dll
+C:\Users\moskalenko_s\Desktop\Выпускная\Vipusknaya4\Vipusknaya4\bin\Debug\OpenTK.pdb
+C:\Users\moskalenko_s\Desktop\Выпускная\Vipusknaya4\Vipusknaya4\bin\Debug\OpenTK.xml
+C:\Users\moskalenko_s\Desktop\Выпускная\Vipusknaya4\Vipusknaya4\bin\Debug\OpenTK.GLControl.xml
